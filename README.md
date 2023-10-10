@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2Kair0S
+- 👋 Hi, I’m @devv_sam
 - 👀 I’m interested in HTML, CSS and Javascript
 - 🌱 I’m currently learning Javscript
 - 💞️ I’m looking to collaborate on anything related to above
