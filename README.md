@@ -15,5 +15,5 @@ I’m a Frontend Developer with over 2 years of experience in crafting responsiv
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Framer" width="30px" style="padding-right:10px;" src="[https://cdn.dribbble.com/users/4878/screenshots/15802274/framer_2_2x_4x.png](https://miro.medium.com/v2/resize:fit:2400/1*F6ufPKgGbyUPkWLZ-16ycw.png)" />
+<img align="left" alt="Framer" width="30px" style="padding-right:10px;" src="https://cdn.dribbble.com/users/4878/screenshots/15802274/framer_2_2x_4x.png" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
