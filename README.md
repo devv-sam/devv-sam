@@ -1,5 +1,5 @@
 # Samuel Yeboah-Asi
-17 | fullstack dev building flow state on demand | Incoming student @ Boston University
+17 | building reamapp.space| Incoming student @ Boston University
 
 
 ## 🌐 Socials:
