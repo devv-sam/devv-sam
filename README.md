@@ -1,5 +1,5 @@
 # Samuel Yeboah-Asi
-17 | building reamapp.space | Incoming student @ Boston University
+17 | building the future of autonomous productivity | Incoming @ Boston University
 
 
 ## 🌐 Socials:
